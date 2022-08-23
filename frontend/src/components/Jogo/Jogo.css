@@ -1,0 +1,36 @@
+.jogo {
+    background: #9be5e4;
+    height: 100vh;
+  }
+  
+  .nuvens {
+    width: 200px;
+  
+    position: absolute;
+    top: 30px;
+    left: 25%;
+  }
+
+  .nuvens1 {
+    width: 200px;
+  
+    position: absolute;
+    top: 30px;
+    left: 50%;
+  }
+
+  .pipe {
+    width: 50px;
+  
+    position: absolute;
+    top: 340px;
+    left: 55%;
+  }
+
+  .mariorun {
+    width: 100px;
+  
+    position: absolute;
+    top: 300px;
+    left: 5%;
+  }
